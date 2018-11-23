@@ -11,6 +11,7 @@ Pasos para iniciarlo en visual
 - Ponen su usuario y contraseña con el que se registraron en git hub
 - Vuelvan al apartado de Git Hub y denle en clone
 - Elijan el proyecto de willy, y decidan donde guardarlo en la compu
+
 Pasos para subir sus cambios (No es edicion simultánea, suban cuando sean cambios grandes)
 -Abran Team Explorer y seleccionen la casita
 -Elijan Cambios
