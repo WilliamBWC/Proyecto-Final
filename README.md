@@ -15,3 +15,4 @@ Pasos para subir sus cambios (No es edicion simultánea)
 -Elijan Cambios
 -En la zona amarilla escriban un mensaje diciendo que cambiaron
 -Le dan a Confirmar Todo
+-Saldra un mensaje amarillo, denle click en sincronizar, cambiara la ventana y dan en sincronizar
