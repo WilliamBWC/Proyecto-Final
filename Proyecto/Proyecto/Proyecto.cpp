@@ -21,7 +21,7 @@ using namespace std;
 
 int main()
 {
-     
+	cout << "Hola";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
