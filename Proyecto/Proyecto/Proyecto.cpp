@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 
-//Se creará una libreria visual
+//Se usará una libreria visual
 //Realizará compras y les guardará un registro
 //Permitirá consultar ventas previas
 
